@@ -44,4 +44,14 @@ body {
 .robot-head-right,
 .robot-head-left {
   width: 125px;
+  position: absolute;
+  top: 20px;
+}
+
+.robot-head-left {
+  left: 35px;
+}
+
+.robot-head-right {
+  right: 35px;
 }
