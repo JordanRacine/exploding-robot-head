@@ -21,6 +21,8 @@ body {
 
 .robot {
   width: 320px;
+  transform: translateX(-50);
+  position: relative;
 }
 
 .robot-body {
