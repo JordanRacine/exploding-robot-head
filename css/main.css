@@ -21,7 +21,7 @@ body {
 
 .robot {
   width: 320px;
-  transform: translateX(-50);
+  transform: translateX(-50%);
   position: relative;
   height: .5rem;
   left: 50%;
@@ -38,7 +38,7 @@ body {
   position: absolute;
   top: 60px;
   left: 50%;
-  transform: translateX(-50);
+  transform: translateX(-50%);
 }
 
 .robot-head-right,
