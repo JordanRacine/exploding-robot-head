@@ -11,10 +11,12 @@ html {
 body {
   margin: 0;
   min-width: 320px;
+  position: relative;
 }
 
 .banner {
   background-color: #2b3851;
+  height: 240px;
 }
 
 .robot {
