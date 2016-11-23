@@ -47,3 +47,21 @@ body {
   position: absolute;
   top: 20px;
 }
+
+.robot-head-left {
+  left: 35px;
+}
+
+.robot-head-right {
+  right: 35px;
+}
+
+.robot:hover .robot-head-left {
+  top: 0;
+  left: 0;
+}
+
+.robot:hover .robot-head-right {
+  top: 0;
+  right: 0;
+}
